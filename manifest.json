@@ -11,7 +11,7 @@
         {
             "id": "survivaldub-client-1.21.6",
             "name": "SurvivalDub Client 1.21.6",
-            "description": "Cliente optimizado para SurvivalDub 1.21.6 con mods esenciales y configuraciones predefinidas.",
+            "description": "Cliente optimizado para SurvivalDub 1.21.6 con mods esenciales y configuraciones predefinidas.\n\nLa versión 1.21.6 es la culminación de años de actualizaciones masivas (Caves & Cliffs, Nether Update y Tricky Trials). la 1.21.6 es un RPG Táctico. No se trata solo de reflejos, sino de preparación, equipo y uso del entorno.",
             "icon": "https://raw.githubusercontent.com/survivaldub/AxolotlClient-mod/main/common/src/main/resources/assets/axolotlclient/textures/badge.png",
             "zipUrl": "https://github.com/survivaldub/Launcher-Manifest/releases/download/v1.21.6/1.21.6.zip",
             "version": "1.21.6",
