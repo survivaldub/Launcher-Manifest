@@ -3,7 +3,7 @@
         {
             "id": "survivaldub-client-1.8.9",
             "name": "SurvivalDub Client 1.8.9",
-            "description": "Cliente optimizado para SurvivalDub con mods esenciales (Sodium/Iris) y más.\n\nLanzada oficialmente en diciembre de 2015, la versión 1.8.9 no es solo una actualización antigua; es un estándar cultural dentro de la comunidad de Minecraft. Se le considera la última versión pura antes de que la Combat Update (1.9) cambiara radicalmente las mecánicas del juego para millones de jugadores, Minecraft se divide en dos eras: antes de la 1.9 y después.",
+            "description": "Cliente optimizado para SurvivalDub con mods esenciales (Sodium/Iris) y más.\n\nLanzada oficialmente en diciembre de 2015, la versión 1.8.9 no es solo una actualización antigua; es un estándar cultural dentro de la comunidad de Minecraft. Se le considera la última versión pura.",
             "icon": "https://raw.githubusercontent.com/survivaldub/AxolotlClient-mod/main/common/src/main/resources/assets/axolotlclient/textures/badge.png",
             "zipUrl": "https://github.com/survivaldub/Launcher-Manifest/releases/download/v3.0.6/SurvivalDubClient_Release.zip",
             "version": "3.0.6"
@@ -11,10 +11,10 @@
         {
             "id": "survivaldub-client-1.21.6",
             "name": "SurvivalDub Client 1.21.6",
-            "description": "Cliente optimizado para SurvivalDub 1.21.6 con mods esenciales y configuraciones predefinidas.\n\nLa versión 1.21.6 es la culminación de años de actualizaciones masivas (Caves & Cliffs, Nether Update y Tricky Trials). la 1.21.6 es un RPG Táctico. No se trata solo de reflejos, sino de preparación, equipo y uso del entorno.",
+            "description": "Cliente optimizado para SurvivalDub 1.21.6 con mods esenciales y configuraciones predefinidas.\n\nLa versión 1.21.6 es la culminación de años de actualizaciones masivas (Caves & Cliffs, Nether Update y Tricky Trials).",
             "icon": "https://raw.githubusercontent.com/survivaldub/AxolotlClient-mod/main/common/src/main/resources/assets/axolotlclient/textures/badge.png",
             "zipUrl": "https://github.com/survivaldub/Launcher-Manifest/releases/download/v1.21.6/1.21.6.zip",
-            "version": "1.21.6",
+            "version": "0.0.1",
             "default": "yes"
         }
     ]
