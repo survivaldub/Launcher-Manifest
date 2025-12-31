@@ -3,7 +3,7 @@
         {
             "id": "survivaldub-client-1.8.9",
             "name": "SurvivalDub Client 1.8.9",
-            "description": "Cliente optimizado para SurvivalDub con mods esenciales y configuraciones predefinidas. Incluye Mods de Hypixel (desactivado en menú), OptiFine replacement (Sodium/Iris), y más.",
+            "description": "Cliente optimizado para SurvivalDub con mods esenciales (Sodium/Iris) y más.",
             "icon": "https://raw.githubusercontent.com/survivaldub/AxolotlClient-mod/main/common/src/main/resources/assets/axolotlclient/textures/badge.png",
             "zipUrl": "https://github.com/survivaldub/Launcher-Manifest/releases/download/v3.0.6/SurvivalDubClient_Release.zip",
             "version": "3.0.6"
