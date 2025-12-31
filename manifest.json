@@ -14,7 +14,8 @@
             "description": "Cliente optimizado para SurvivalDub 1.21.6 con mods esenciales y configuraciones predefinidas.",
             "icon": "https://raw.githubusercontent.com/survivaldub/AxolotlClient-mod/main/common/src/main/resources/assets/axolotlclient/textures/badge.png",
             "zipUrl": "https://github.com/survivaldub/Launcher-Manifest/releases/download/v1.21.6/1.21.6.zip",
-            "version": "1.21.6"
+            "version": "1.21.6",
+            "default": "yes"
         }
     ]
 }
