@@ -15,6 +15,14 @@
             "icon": "https://raw.githubusercontent.com/survivaldub/AxolotlClient-mod/main/common/src/main/resources/assets/axolotlclient/textures/badge.png",
             "zipUrl": "https://github.com/survivaldub/Launcher-Manifest/releases/download/v1.21.6/1.21.6.zip",
             "version": "0.0.1",
+        },
+        {
+            "id": "survivaldub-client-1.21.11",
+            "name": "SurvivalDub Client 1.21.11",
+            "description": "Cliente optimizado para SurvivalDub 1.21.11 con mods esenciales y configuraciones predefinidas.",
+            "icon": "https://raw.githubusercontent.com/survivaldub/AxolotlClient-mod/main/common/src/main/resources/assets/axolotlclient/textures/badge.png",
+            "zipUrl": "https://github.com/survivaldub/Launcher-Manifest/releases/download/v1.21.11/1.21.11.zip",
+            "version": "1.0.0",
             "default": "yes"
         }
     ]
